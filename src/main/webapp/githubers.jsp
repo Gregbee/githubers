@@ -35,7 +35,7 @@
                 </td>
 
                 <td>
-                        <img src="${githuber.avatarUrl}" width="60px"/>
+                        <img src="${githuber.avatar_url}" width="60px"/>
                 </td>
             </tr>
 
